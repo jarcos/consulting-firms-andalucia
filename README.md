@@ -3,7 +3,8 @@
 ## Almería
 
 ## Cádiz
-[atSistemas](https://www.linkedin.com/company/atsistemas/) (Jérez)
+- [atSistemas](https://www.linkedin.com/company/atsistemas/) (Jérez)
+
 _Nota: Ahora se llaman "knowmad mood"_
 
 ## Córdoba
@@ -11,7 +12,8 @@ _Nota: Ahora se llaman "knowmad mood"_
 ## Granada
 
 ## Huelva
-[atSistemas](https://www.linkedin.com/company/atsistemas/)
+- [atSistemas](https://www.linkedin.com/company/atsistemas/)
+
 _Nota: Ahora se llaman "knowmad mood"_
 
 ## Jaén
@@ -19,12 +21,12 @@ _Nota: Ahora se llaman "knowmad mood"_
 ## Málaga
 
 ## Sevilla
-[Accenture](https://www.linkedin.com/company/accenture-espana/)
-[Altia](https://www.linkedin.com/company/altia-sa/)
-[Ayesa](https://www.linkedin.com/company/ayesa/)
-[Emergya](https://www.linkedin.com/company/emergya/)
-[Everis](https://www.linkedin.com/company/everis/)
-[Indra](https://www.linkedin.com/company/indra/)
-[NTT Data](https://www.linkedin.com/company/ntt-data-europe-latam/)
-[OpenSistemas](https://www.linkedin.com/company/opensistemas/)
-[Plexus Tech](https://www.linkedin.com/company/plexus-tech/)
+- [Accenture](https://www.linkedin.com/company/accenture-espana/)
+- [Altia](https://www.linkedin.com/company/altia-sa/)
+- [Ayesa](https://www.linkedin.com/company/ayesa/)
+- [Emergya](https://www.linkedin.com/company/emergya/)
+- [Everis](https://www.linkedin.com/company/everis/)
+- [Indra](https://www.linkedin.com/company/indra/)
+- [NTT Data](https://www.linkedin.com/company/ntt-data-europe-latam/)
+- [OpenSistemas](https://www.linkedin.com/company/opensistemas/)
+- [Plexus Tech](https://www.linkedin.com/company/plexus-tech/)
